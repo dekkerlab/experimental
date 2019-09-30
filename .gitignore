@@ -1,6 +1,10 @@
 # csv
 *.csv
 
+# .bam *.sam
+*.bam
+*.sam
+
 # .zip
 *.zip
 
